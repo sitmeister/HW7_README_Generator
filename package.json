@@ -10,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^8.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sitmeister/HW7_README_Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sitmeister/HW7_README_Generator/issues"
+  },
+  "homepage": "https://github.com/sitmeister/HW7_README_Generator#readme",
+  "keywords": []
 }
